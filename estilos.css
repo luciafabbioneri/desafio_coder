@@ -1,0 +1,10 @@
+ul li{
+	font-family: 'Quicksand', sans-serif;
+	color: #eeb2a0;
+	text-align: center;
+	list-style-position: inside;
+}
+.portada__foto--tamaño{
+	width: 100%;
+	height: auto;
+}
